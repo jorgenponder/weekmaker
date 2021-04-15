@@ -1,0 +1,3147 @@
+[
+  {
+    "weekNumber": "01",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2019-12-30"
+      },
+      {
+        "name": "tisdag",
+        "date": "2019-12-31"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-01-01"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-01-02"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-01-03"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-01-04"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-01-05"
+      }
+    ],
+    "year": "2019",
+    "id": "2019v01",
+    "nextId": "2020v02",
+    "previousId": ""
+  },
+  {
+    "weekNumber": "02",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-01-06"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-01-07"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-01-08"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-01-09"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-01-10"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-01-11"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-01-12"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v02",
+    "nextId": "2020v03",
+    "previousId": "2019v01"
+  },
+  {
+    "weekNumber": "03",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-01-13"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-01-14"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-01-15"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-01-16"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-01-17"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-01-18"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-01-19"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v03",
+    "nextId": "2020v04",
+    "previousId": "2020v02"
+  },
+  {
+    "weekNumber": "04",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-01-20"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-01-21"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-01-22"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-01-23"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-01-24"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-01-25"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-01-26"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v04",
+    "nextId": "2020v05",
+    "previousId": "2020v03"
+  },
+  {
+    "weekNumber": "05",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-01-27"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-01-28"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-01-29"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-01-30"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-01-31"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-02-01"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-02-02"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v05",
+    "nextId": "2020v06",
+    "previousId": "2020v04"
+  },
+  {
+    "weekNumber": "06",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-02-03"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-02-04"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-02-05"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-02-06"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-02-07"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-02-08"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-02-09"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v06",
+    "nextId": "2020v07",
+    "previousId": "2020v05"
+  },
+  {
+    "weekNumber": "07",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-02-10"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-02-11"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-02-12"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-02-13"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-02-14"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-02-15"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-02-16"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v07",
+    "nextId": "2020v08",
+    "previousId": "2020v06"
+  },
+  {
+    "weekNumber": "08",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-02-17"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-02-18"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-02-19"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-02-20"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-02-21"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-02-22"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-02-23"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v08",
+    "nextId": "2020v09",
+    "previousId": "2020v07"
+  },
+  {
+    "weekNumber": "09",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-02-24"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-02-25"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-02-26"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-02-27"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-02-28"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-02-29"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-03-01"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v09",
+    "nextId": "2020v10",
+    "previousId": "2020v08"
+  },
+  {
+    "weekNumber": "10",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-03-02"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-03-03"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-03-04"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-03-05"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-03-06"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-03-07"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-03-08"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v10",
+    "nextId": "2020v11",
+    "previousId": "2020v09"
+  },
+  {
+    "weekNumber": "11",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-03-09"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-03-10"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-03-11"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-03-12"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-03-13"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-03-14"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-03-15"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v11",
+    "nextId": "2020v12",
+    "previousId": "2020v10"
+  },
+  {
+    "weekNumber": "12",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-03-16"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-03-17"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-03-18"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-03-19"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-03-20"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-03-21"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-03-22"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v12",
+    "nextId": "2020v13",
+    "previousId": "2020v11"
+  },
+  {
+    "weekNumber": "13",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-03-23"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-03-24"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-03-25"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-03-26"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-03-27"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-03-28"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-03-29"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v13",
+    "nextId": "2020v14",
+    "previousId": "2020v12"
+  },
+  {
+    "weekNumber": "14",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-03-30"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-03-31"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-04-01"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-04-02"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-04-03"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-04-04"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-04-05"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v14",
+    "nextId": "2020v15",
+    "previousId": "2020v13"
+  },
+  {
+    "weekNumber": "15",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-04-06"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-04-07"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-04-08"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-04-09"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-04-10"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-04-11"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-04-12"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v15",
+    "nextId": "2020v16",
+    "previousId": "2020v14"
+  },
+  {
+    "weekNumber": "16",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-04-13"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-04-14"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-04-15"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-04-16"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-04-17"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-04-18"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-04-19"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v16",
+    "nextId": "2020v17",
+    "previousId": "2020v15"
+  },
+  {
+    "weekNumber": "17",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-04-20"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-04-21"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-04-22"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-04-23"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-04-24"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-04-25"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-04-26"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v17",
+    "nextId": "2020v18",
+    "previousId": "2020v16"
+  },
+  {
+    "weekNumber": "18",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-04-27"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-04-28"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-04-29"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-04-30"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-05-01"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-05-02"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-05-03"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v18",
+    "nextId": "2020v19",
+    "previousId": "2020v17"
+  },
+  {
+    "weekNumber": "19",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-05-04"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-05-05"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-05-06"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-05-07"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-05-08"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-05-09"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-05-10"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v19",
+    "nextId": "2020v20",
+    "previousId": "2020v18"
+  },
+  {
+    "weekNumber": "20",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-05-11"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-05-12"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-05-13"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-05-14"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-05-15"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-05-16"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-05-17"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v20",
+    "nextId": "2020v21",
+    "previousId": "2020v19"
+  },
+  {
+    "weekNumber": "21",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-05-18"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-05-19"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-05-20"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-05-21"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-05-22"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-05-23"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-05-24"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v21",
+    "nextId": "2020v22",
+    "previousId": "2020v20"
+  },
+  {
+    "weekNumber": "22",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-05-25"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-05-26"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-05-27"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-05-28"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-05-29"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-05-30"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-05-31"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v22",
+    "nextId": "2020v23",
+    "previousId": "2020v21"
+  },
+  {
+    "weekNumber": "23",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-06-01"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-06-02"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-06-03"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-06-04"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-06-05"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-06-06"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-06-07"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v23",
+    "nextId": "2020v24",
+    "previousId": "2020v22"
+  },
+  {
+    "weekNumber": "24",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-06-08"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-06-09"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-06-10"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-06-11"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-06-12"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-06-13"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-06-14"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v24",
+    "nextId": "2020v25",
+    "previousId": "2020v23"
+  },
+  {
+    "weekNumber": "25",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-06-15"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-06-16"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-06-17"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-06-18"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-06-19"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-06-20"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-06-21"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v25",
+    "nextId": "2020v26",
+    "previousId": "2020v24"
+  },
+  {
+    "weekNumber": "26",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-06-22"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-06-23"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-06-24"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-06-25"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-06-26"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-06-27"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-06-28"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v26",
+    "nextId": "2020v27",
+    "previousId": "2020v25"
+  },
+  {
+    "weekNumber": "27",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-06-29"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-06-30"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-07-01"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-07-02"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-07-03"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-07-04"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-07-05"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v27",
+    "nextId": "2020v28",
+    "previousId": "2020v26"
+  },
+  {
+    "weekNumber": "28",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-07-06"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-07-07"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-07-08"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-07-09"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-07-10"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-07-11"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-07-12"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v28",
+    "nextId": "2020v29",
+    "previousId": "2020v27"
+  },
+  {
+    "weekNumber": "29",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-07-13"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-07-14"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-07-15"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-07-16"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-07-17"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-07-18"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-07-19"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v29",
+    "nextId": "2020v30",
+    "previousId": "2020v28"
+  },
+  {
+    "weekNumber": "30",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-07-20"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-07-21"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-07-22"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-07-23"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-07-24"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-07-25"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-07-26"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v30",
+    "nextId": "2020v31",
+    "previousId": "2020v29"
+  },
+  {
+    "weekNumber": "31",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-07-27"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-07-28"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-07-29"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-07-30"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-07-31"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-08-01"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-08-02"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v31",
+    "nextId": "2020v32",
+    "previousId": "2020v30"
+  },
+  {
+    "weekNumber": "32",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-08-03"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-08-04"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-08-05"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-08-06"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-08-07"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-08-08"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-08-09"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v32",
+    "nextId": "2020v33",
+    "previousId": "2020v31"
+  },
+  {
+    "weekNumber": "33",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-08-10"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-08-11"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-08-12"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-08-13"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-08-14"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-08-15"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-08-16"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v33",
+    "nextId": "2020v34",
+    "previousId": "2020v32"
+  },
+  {
+    "weekNumber": "34",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-08-17"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-08-18"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-08-19"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-08-20"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-08-21"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-08-22"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-08-23"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v34",
+    "nextId": "2020v35",
+    "previousId": "2020v33"
+  },
+  {
+    "weekNumber": "35",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-08-24"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-08-25"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-08-26"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-08-27"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-08-28"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-08-29"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-08-30"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v35",
+    "nextId": "2020v36",
+    "previousId": "2020v34"
+  },
+  {
+    "weekNumber": "36",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-08-31"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-09-01"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-09-02"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-09-03"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-09-04"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-09-05"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-09-06"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v36",
+    "nextId": "2020v37",
+    "previousId": "2020v35"
+  },
+  {
+    "weekNumber": "37",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-09-07"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-09-08"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-09-09"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-09-10"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-09-11"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-09-12"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-09-13"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v37",
+    "nextId": "2020v38",
+    "previousId": "2020v36"
+  },
+  {
+    "weekNumber": "38",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-09-14"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-09-15"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-09-16"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-09-17"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-09-18"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-09-19"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-09-20"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v38",
+    "nextId": "2020v39",
+    "previousId": "2020v37"
+  },
+  {
+    "weekNumber": "39",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-09-21"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-09-22"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-09-23"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-09-24"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-09-25"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-09-26"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-09-27"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v39",
+    "nextId": "2020v40",
+    "previousId": "2020v38"
+  },
+  {
+    "weekNumber": "40",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-09-28"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-09-29"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-09-30"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-10-01"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-10-02"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-10-03"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-10-04"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v40",
+    "nextId": "2020v41",
+    "previousId": "2020v39"
+  },
+  {
+    "weekNumber": "41",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-10-05"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-10-06"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-10-07"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-10-08"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-10-09"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-10-10"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-10-11"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v41",
+    "nextId": "2020v42",
+    "previousId": "2020v40"
+  },
+  {
+    "weekNumber": "42",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-10-12"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-10-13"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-10-14"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-10-15"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-10-16"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-10-17"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-10-18"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v42",
+    "nextId": "2020v43",
+    "previousId": "2020v41"
+  },
+  {
+    "weekNumber": "43",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-10-19"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-10-20"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-10-21"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-10-22"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-10-23"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-10-24"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-10-25"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v43",
+    "nextId": "2020v44",
+    "previousId": "2020v42"
+  },
+  {
+    "weekNumber": "44",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-10-26"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-10-27"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-10-28"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-10-29"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-10-30"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-10-31"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-11-01"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v44",
+    "nextId": "2020v45",
+    "previousId": "2020v43"
+  },
+  {
+    "weekNumber": "45",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-11-02"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-11-03"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-11-04"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-11-05"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-11-06"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-11-07"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-11-08"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v45",
+    "nextId": "2020v46",
+    "previousId": "2020v44"
+  },
+  {
+    "weekNumber": "46",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-11-09"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-11-10"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-11-11"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-11-12"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-11-13"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-11-14"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-11-15"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v46",
+    "nextId": "2020v47",
+    "previousId": "2020v45"
+  },
+  {
+    "weekNumber": "47",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-11-16"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-11-17"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-11-18"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-11-19"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-11-20"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-11-21"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-11-22"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v47",
+    "nextId": "2020v48",
+    "previousId": "2020v46"
+  },
+  {
+    "weekNumber": "48",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-11-23"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-11-24"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-11-25"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-11-26"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-11-27"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-11-28"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-11-29"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v48",
+    "nextId": "2020v49",
+    "previousId": "2020v47"
+  },
+  {
+    "weekNumber": "49",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-11-30"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-12-01"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-12-02"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-12-03"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-12-04"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-12-05"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-12-06"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v49",
+    "nextId": "2020v50",
+    "previousId": "2020v48"
+  },
+  {
+    "weekNumber": "50",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-12-07"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-12-08"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-12-09"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-12-10"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-12-11"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-12-12"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-12-13"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v50",
+    "nextId": "2020v51",
+    "previousId": "2020v49"
+  },
+  {
+    "weekNumber": "51",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-12-14"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-12-15"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-12-16"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-12-17"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-12-18"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-12-19"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-12-20"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v51",
+    "nextId": "2020v52",
+    "previousId": "2020v50"
+  },
+  {
+    "weekNumber": "52",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-12-21"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-12-22"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-12-23"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-12-24"
+      },
+      {
+        "name": "fredag",
+        "date": "2020-12-25"
+      },
+      {
+        "name": "lördag",
+        "date": "2020-12-26"
+      },
+      {
+        "name": "söndag",
+        "date": "2020-12-27"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v52",
+    "nextId": "2020v53",
+    "previousId": "2020v51"
+  },
+  {
+    "weekNumber": "53",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2020-12-28"
+      },
+      {
+        "name": "tisdag",
+        "date": "2020-12-29"
+      },
+      {
+        "name": "onsdag",
+        "date": "2020-12-30"
+      },
+      {
+        "name": "torsdag",
+        "date": "2020-12-31"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-01-01"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-01-02"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-01-03"
+      }
+    ],
+    "year": "2020",
+    "id": "2020v53",
+    "nextId": "2021v01",
+    "previousId": "2020v52"
+  },
+  {
+    "weekNumber": "01",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-01-04"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-01-05"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-01-06"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-01-07"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-01-08"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-01-09"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-01-10"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v01",
+    "nextId": "2021v02",
+    "previousId": "2020v53"
+  },
+  {
+    "weekNumber": "02",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-01-11"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-01-12"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-01-13"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-01-14"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-01-15"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-01-16"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-01-17"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v02",
+    "nextId": "2021v03",
+    "previousId": "2021v01"
+  },
+  {
+    "weekNumber": "03",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-01-18"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-01-19"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-01-20"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-01-21"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-01-22"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-01-23"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-01-24"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v03",
+    "nextId": "2021v04",
+    "previousId": "2021v02"
+  },
+  {
+    "weekNumber": "04",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-01-25"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-01-26"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-01-27"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-01-28"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-01-29"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-01-30"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-01-31"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v04",
+    "nextId": "2021v05",
+    "previousId": "2021v03"
+  },
+  {
+    "weekNumber": "05",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-02-01"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-02-02"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-02-03"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-02-04"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-02-05"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-02-06"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-02-07"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v05",
+    "nextId": "2021v06",
+    "previousId": "2021v04"
+  },
+  {
+    "weekNumber": "06",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-02-08"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-02-09"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-02-10"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-02-11"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-02-12"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-02-13"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-02-14"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v06",
+    "nextId": "2021v07",
+    "previousId": "2021v05"
+  },
+  {
+    "weekNumber": "07",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-02-15"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-02-16"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-02-17"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-02-18"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-02-19"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-02-20"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-02-21"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v07",
+    "nextId": "2021v08",
+    "previousId": "2021v06"
+  },
+  {
+    "weekNumber": "08",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-02-22"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-02-23"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-02-24"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-02-25"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-02-26"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-02-27"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-02-28"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v08",
+    "nextId": "2021v09",
+    "previousId": "2021v07"
+  },
+  {
+    "weekNumber": "09",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-03-01"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-03-02"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-03-03"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-03-04"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-03-05"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-03-06"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-03-07"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v09",
+    "nextId": "2021v10",
+    "previousId": "2021v08"
+  },
+  {
+    "weekNumber": "10",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-03-08"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-03-09"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-03-10"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-03-11"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-03-12"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-03-13"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-03-14"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v10",
+    "nextId": "2021v11",
+    "previousId": "2021v09"
+  },
+  {
+    "weekNumber": "11",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-03-15"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-03-16"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-03-17"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-03-18"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-03-19"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-03-20"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-03-21"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v11",
+    "nextId": "2021v12",
+    "previousId": "2021v10"
+  },
+  {
+    "weekNumber": "12",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-03-22"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-03-23"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-03-24"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-03-25"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-03-26"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-03-27"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-03-28"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v12",
+    "nextId": "2021v13",
+    "previousId": "2021v11"
+  },
+  {
+    "weekNumber": "13",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-03-29"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-03-30"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-03-31"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-04-01"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-04-02"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-04-03"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-04-04"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v13",
+    "nextId": "2021v14",
+    "previousId": "2021v12"
+  },
+  {
+    "weekNumber": "14",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-04-05"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-04-06"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-04-07"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-04-08"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-04-09"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-04-10"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-04-11"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v14",
+    "nextId": "2021v15",
+    "previousId": "2021v13"
+  },
+  {
+    "weekNumber": "15",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-04-12"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-04-13"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-04-14"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-04-15"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-04-16"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-04-17"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-04-18"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v15",
+    "nextId": "2021v16",
+    "previousId": "2021v14"
+  },
+  {
+    "weekNumber": "16",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-04-19"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-04-20"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-04-21"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-04-22"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-04-23"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-04-24"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-04-25"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v16",
+    "nextId": "2021v17",
+    "previousId": "2021v15"
+  },
+  {
+    "weekNumber": "17",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-04-26"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-04-27"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-04-28"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-04-29"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-04-30"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-05-01"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-05-02"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v17",
+    "nextId": "2021v18",
+    "previousId": "2021v16"
+  },
+  {
+    "weekNumber": "18",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-05-03"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-05-04"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-05-05"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-05-06"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-05-07"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-05-08"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-05-09"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v18",
+    "nextId": "2021v19",
+    "previousId": "2021v17"
+  },
+  {
+    "weekNumber": "19",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-05-10"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-05-11"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-05-12"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-05-13"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-05-14"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-05-15"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-05-16"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v19",
+    "nextId": "2021v20",
+    "previousId": "2021v18"
+  },
+  {
+    "weekNumber": "20",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-05-17"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-05-18"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-05-19"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-05-20"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-05-21"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-05-22"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-05-23"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v20",
+    "nextId": "2021v21",
+    "previousId": "2021v19"
+  },
+  {
+    "weekNumber": "21",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-05-24"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-05-25"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-05-26"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-05-27"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-05-28"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-05-29"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-05-30"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v21",
+    "nextId": "2021v22",
+    "previousId": "2021v20"
+  },
+  {
+    "weekNumber": "22",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-05-31"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-06-01"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-06-02"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-06-03"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-06-04"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-06-05"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-06-06"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v22",
+    "nextId": "2021v23",
+    "previousId": "2021v21"
+  },
+  {
+    "weekNumber": "23",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-06-07"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-06-08"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-06-09"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-06-10"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-06-11"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-06-12"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-06-13"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v23",
+    "nextId": "2021v24",
+    "previousId": "2021v22"
+  },
+  {
+    "weekNumber": "24",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-06-14"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-06-15"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-06-16"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-06-17"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-06-18"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-06-19"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-06-20"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v24",
+    "nextId": "2021v25",
+    "previousId": "2021v23"
+  },
+  {
+    "weekNumber": "25",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-06-21"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-06-22"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-06-23"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-06-24"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-06-25"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-06-26"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-06-27"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v25",
+    "nextId": "2021v26",
+    "previousId": "2021v24"
+  },
+  {
+    "weekNumber": "26",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-06-28"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-06-29"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-06-30"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-07-01"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-07-02"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-07-03"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-07-04"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v26",
+    "nextId": "2021v27",
+    "previousId": "2021v25"
+  },
+  {
+    "weekNumber": "27",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-07-05"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-07-06"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-07-07"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-07-08"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-07-09"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-07-10"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-07-11"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v27",
+    "nextId": "2021v28",
+    "previousId": "2021v26"
+  },
+  {
+    "weekNumber": "28",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-07-12"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-07-13"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-07-14"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-07-15"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-07-16"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-07-17"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-07-18"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v28",
+    "nextId": "2021v29",
+    "previousId": "2021v27"
+  },
+  {
+    "weekNumber": "29",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-07-19"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-07-20"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-07-21"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-07-22"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-07-23"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-07-24"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-07-25"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v29",
+    "nextId": "2021v30",
+    "previousId": "2021v28"
+  },
+  {
+    "weekNumber": "30",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-07-26"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-07-27"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-07-28"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-07-29"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-07-30"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-07-31"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-08-01"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v30",
+    "nextId": "2021v31",
+    "previousId": "2021v29"
+  },
+  {
+    "weekNumber": "31",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-08-02"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-08-03"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-08-04"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-08-05"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-08-06"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-08-07"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-08-08"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v31",
+    "nextId": "2021v32",
+    "previousId": "2021v30"
+  },
+  {
+    "weekNumber": "32",
+    "days": [
+      {
+        "name": "måndag",
+        "date": "2021-08-09"
+      },
+      {
+        "name": "tisdag",
+        "date": "2021-08-10"
+      },
+      {
+        "name": "onsdag",
+        "date": "2021-08-11"
+      },
+      {
+        "name": "torsdag",
+        "date": "2021-08-12"
+      },
+      {
+        "name": "fredag",
+        "date": "2021-08-13"
+      },
+      {
+        "name": "lördag",
+        "date": "2021-08-14"
+      },
+      {
+        "name": "söndag",
+        "date": "2021-08-15"
+      }
+    ],
+    "year": "2021",
+    "id": "2021v32",
+    "nextId": "",
+    "previousId": "2021v31"
+  }
+]

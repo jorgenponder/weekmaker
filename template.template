@@ -1,0 +1,34 @@
+{{-start-}}
+'''<%= id %>'''
+
+
+{{Veckainfobox
+|namn           = {{PAGENAME}}
+|veckonummer    = <%= weekNumber %>
+|år             = <%= year %>
+|föregående_vecka     = [[<%= previousId %>]]
+|nästa_vecka          = [[<%= nextId %>]]
+}}
+
+
+<% for(let day of days){   %>
+==<%= day.name %> <%= day.date %>==
+
+
+===Händelser===
+
+===Klipp===
+
+===Statistik===
+
+
+<% }  %>
+
+
+
+{{NavboxVecka}}
+
+[[Kategori:<%= year %>]]
+[[Kategori:vecka]]
+
+{{-stop-}}
