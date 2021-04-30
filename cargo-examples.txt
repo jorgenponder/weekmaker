@@ -1,0 +1,24 @@
+{{#cargo_query:
+tables=codosak
+|fields=codosak.datum, codosak._pageName
+|where=datum < "2021/02/01" AND datum > "2020/11/12"
+}}
+
+{{#cargo_query:
+tables=codosak
+|fields=codosak.datum, codosak._pageName
+|where=datum <= "2021/02/01" AND datum >= "2020/11/12"
+}}
+
+{{#cargo_query:
+tables=codosak
+|fields=codosak.datum, codosak._pageName
+|where=datum <= "2021-02-01" AND datum >= "2020-11-12"
+}}
+
+{{#cargo_query:
+tables=codosak
+|fields=codosak.datum, codosak._pageName, codosak.etiketter
+|where=datum <= "2021-02-01" AND datum >= "2020-11-12"
+|order by=codosak.datum ASC
+}}
